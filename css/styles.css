@@ -1,0 +1,56 @@
+body {
+    background-color: #e8f3dc;
+ }
+
+.title-text {
+    
+    text-align: center;
+}
+
+ h1 {
+   color: #66BFBF;
+ }
+
+ h3 {
+   color: #66BFBF;
+ }
+ p {
+    text-align: center;
+    color: #66BFBF;
+    padding-bottom: 160px;
+ }
+
+ /*Navigation Bar*/
+
+.navbar{
+  padding-bottom: 3rem;
+  text-align: center;
+  padding-left: 30%;
+  
+}
+
+.nav-item{
+  padding: 0 18px;
+}
+
+.nav-link{
+  font-family: "Montserrat";
+  color: #66BFBF;
+  font-size: larger;
+  font-size: 1.2rem;
+  margin-left: 30px;
+}
+
+#poem {
+  margin-top: 160px;
+  margin-bottom: 160px;
+  margin-left: 160px;
+  margin-right: 160px;
+  text-align: center;
+  color: #66BFBF;
+  padding-top: 15%;
+  font-family: "Montserrat";
+  font-size: larger;
+  line-height: 2;
+  
+}

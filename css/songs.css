@@ -1,0 +1,34 @@
+body{
+    background-color: #e8f3dc;
+    color: #EFEFFF;
+}
+.wrapper {
+    position: relative;
+    overflow: hidden;
+    width: 600px;
+    height: 370px; 
+    border: 1px solid black;
+}
+
+h1{
+    font-family: "Montserrat";
+    color: #66BFBF;
+    text-align: center;
+    padding-top: 5%;
+    margin-bottom: 50px;
+}
+#tunes{
+    
+    margin: 10px 180px 180px 180px;
+}
+#audio{
+    margin: 10px;
+    padding-left: 40%;
+    border-radius: 30px;
+    border-color: blue;
+    color: blue;
+}
+    
+    
+  
+  

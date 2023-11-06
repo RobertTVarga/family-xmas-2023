@@ -1,0 +1,68 @@
+#lovetext{
+    padding-left: 50px;
+    padding-top: 5%;
+    align-items: center;
+  }
+  .lovetext{
+    text-align: center;
+    color: #66BFBF;
+    font-family: 'Montserrat', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    line-height: 2;
+  
+  }
+  
+
+  #annoyed{
+    padding-left: 10%;
+  }
+  .annoyed{
+    border-radius: 40px;
+    border: 5px solid red;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  }
+  #sleepykath{
+    padding-left: 60%;
+  }
+  .sleepykath{
+    border-radius: 40px;
+    border: 5px solid red;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  }
+  #kissedby{
+    padding-left: 20%;
+  }
+  .kissedby{
+    border-radius: 40px;
+    border: 5px solid red;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  }
+  #toby{
+    padding-left: 60%;
+  }
+  .toby{
+    border-radius: 40px;
+    border: 5px solid red;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  }
+  #ladies{
+    padding-left: 10%;
+  }
+  .ladies{
+    border-radius: 40px;
+    border: 5px solid red;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  }
+  #sleepingroxy{
+    padding-left: 60%;
+    width: 200px;
+    height: 200px;
+    hover {
+      width: 300px;
+    }
+  }
+  .sleepingroxy{
+    border-radius: 40px;
+    border: 5px solid red;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+
+  }
